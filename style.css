@@ -1,0 +1,83 @@
+body {
+    margin: 0;
+    font-family: 'Helvetica', sans-serif;
+    /* Corrected font family name */
+    color: #333;
+    /* Improved text contrast */
+    background: #f4f4f4;
+    /* Light background for better readability */
+}
+
+header {
+    height: 100px;
+    background: lime;
+    display: flex;
+    /* Center logo */
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    height: auto;
+    width: 90%;
+    /* Responsive image width */
+    max-width: 600px;
+    /* Max width for larger screens */
+    display: block;
+    /* Remove default inline behavior */
+    margin: 10px auto;
+    /* Center images */
+}
+
+main {
+    background: white;
+    padding: 20px;
+    text-align: center;
+    /* Center text for all elements in main */
+}
+
+p,
+a {
+    font-weight: 200;
+    font-size: 18px;
+    /* Slightly smaller font for paragraphs and links */
+}
+
+h1 {
+    font-weight: 600;
+    margin-bottom: 20px;
+    color: red;
+    /* Space below the heading */
+}
+
+a {
+    text-decoration: none;
+    color: #007bff;
+    /* More visible link color */
+    padding: 10px 20px;
+    /* Padding for clickable area */
+    border: 1px solid #007bff;
+    /* Border for attractiveness */
+    border-radius: 5px;
+    /* Rounded corners */
+    display: inline-block;
+    /* Block behavior for padding and border */
+    transition: background-color 0.3s, color 0.3s;
+    /* Smooth transition for hover */
+}
+
+a:hover {
+    background-color: #007bff;
+    color: white;
+}
+
+footer {
+    height: 100px;
+    background: #333;
+    color: white;
+    display: flex;
+    /* Center content */
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+}
