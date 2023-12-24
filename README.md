@@ -8,4 +8,8 @@ https://www.youtube.com/watch?v=Yf5K0XgXrRs
 
 memory jog:
 
+old
 /c/Users/glads/Downloads/THURSDAY-PRACTICE-21DEC2023/gladstones-favorite-video
+
+new
+/c/Users/glads/Downloads/THURSDAY-PRACTICE-21DEC2023/kingsgate-united-christmas
